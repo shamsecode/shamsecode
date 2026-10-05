@@ -2,23 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Shamse&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20%2F%20Full-Stack%20Developer&descSize=18&descAlignY=60" width="100%" alt="banner" />
 
-**Building scalable APIs, full-stack applications, and developer-focused products.**
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=shamsecode&style=flat-square&color=2563eb&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/shamsecode?style=flat-square&logo=github&color=0f172a)](https://github.com/shamsecode)
-
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
-- 🔭 Building backend systems and full-stack products with a focus on **scalability and clean architecture**
-- 🌱 Currently deepening my knowledge of **DSA, System Design, and Database Design**
-- ⚡ I enjoy designing **REST APIs**, caching layers, and developer-friendly tools
-- 📫 Open to collaborations, internships, and interesting projects
+- 🔭 Building **scalable APIs, full-stack applications, and developer-focused products**
+- ⚡ I enjoy designing REST APIs, caching layers, and clean backend architecture
+- 🌱 Always learning, always shipping
 
 ---
 
@@ -53,46 +45,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🔗 URL Shortener</h3>
-      <p>Scalable URL shortening API with fast redirects and caching.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      </p>
-      <a href="https://github.com/shamsecode/REPO-NAME">View Repository →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>💰 Expense Tracker</h3>
-      <p>Full-stack personal finance app to track spending and budgets.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      </p>
-      <a href="https://github.com/shamsecode/REPO-NAME">View Repository →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🤖 Mock Interviewer</h3>
-      <p>AI-powered interview preparation platform.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI-2563eb?style=flat-square" />
-      </p>
-      <a href="https://github.com/shamsecode/REPO-NAME">View Repository →</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -106,20 +58,12 @@
 
 ## 🧠 Currently Learning
 
-![DSA](https://img.shields.io/badge/DSA-2563eb?style=flat-square)
-![System Design](https://img.shields.io/badge/System_Design-2563eb?style=flat-square)
-![Backend Architecture](https://img.shields.io/badge/Backend_Architecture-2563eb?style=flat-square)
-![Database Design](https://img.shields.io/badge/Database_Design-2563eb?style=flat-square)
-
----
-
-## 📫 Let's Connect
+![DSA](https://img.shields.io/badge/DSA-2563eb?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-2563eb?style=for-the-badge)
+![Backend Architecture](https://img.shields.io/badge/Backend_Architecture-2563eb?style=for-the-badge)
+![Database Design](https://img.shields.io/badge/Database_Design-2563eb?style=for-the-badge)
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-shamsecode-181717?style=for-the-badge&logo=github)](https://github.com/shamsecode)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="footer" />
 
