@@ -1,19 +1,43 @@
-# Hi, I'm Shamse 👋
+# Hey, I'm Shamse 👋
 
 ### Backend / Full-Stack Developer
 
-I build scalable web applications, REST APIs, and production-focused backend systems.
+Building **scalable APIs, full-stack applications, and developer-focused products.**
 
-**Tech Stack:**  
-JavaScript • TypeScript • Node.js • Express • React • React Native • PostgreSQL • MongoDB • Redis
+<br/>
 
-**Currently Learning:**  
-DSA • System Design • Backend Architecture
+### ⚡ Tech Stack
 
-### Featured Projects
+**Languages**  
+JavaScript · TypeScript · Java · C++
 
-- 🔗 [URL Shortener API](https://github.com/shamsecode/Url_Shortner)
-- 💰 [Expense Tracker](https://github.com/shamsecode/Expense_tracker_backend)
-- 🤖 [Mock Interviewer](https://github.com/shamsecode/MockInterviewer)
+**Backend**  
+Node.js · Express · REST APIs · JWT · Redis
 
-📫 Open to Backend & Full-Stack opportunities.
+**Frontend**  
+React · React Native · Vite · Tailwind CSS
+
+**Database**  
+PostgreSQL · MongoDB · MySQL
+
+<br/>
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔗 **URL Shortener** | Scalable URL shortening API | Node.js · TypeScript · PostgreSQL · Redis |
+| 💰 **Expense Tracker** | Full-stack personal finance app | Node.js · MongoDB · React Native |
+| 🤖 **Mock Interviewer** | Interview preparation platform | React · Node.js · AI |
+
+<br/>
+
+### 🧠 Currently Learning
+
+`DSA` `System Design` `Backend Architecture` `Database Design`
+
+<br/>
+
+### 📫 Connect
+
+[GitHub](https://github.com/shamsecode)
